@@ -30,8 +30,9 @@ Milo Bot được phát hành theo giấy phép [**MIT License and Apache Licens
 
 ---  
 
-**Cảm ơn bạn đã sử dụng Milo Bot!** ❤️
-
 ## Bản quyền
 *   **Copyright © by Milo Teams. All right reserved** / **Bản quyền © bởi Milo Teams. Tất cả được bảo lưu**.
 *   **Any copying or redistribution of this product without our written permission is strictly prohibited.** / **Nghiêm cấm mọi hình thức sao chép hoặc phân phối lại sản phẩm này mà không có sự cho phép bằng văn bản của chúng tôi.**
+---
+
+**Cảm ơn bạn đã sử dụng Milo Bot!** ❤️
