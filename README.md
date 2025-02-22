@@ -5,7 +5,7 @@ Chào mừng đến với Milo Bot, một bot Discord đa năng được thiết
 ## Tính năng nổi bật ✨  
 
 *   **Dễ sử dụng:** Giao diện trực quan, lệnh đơn giản, dễ dàng làm quen ngay cả với người mới bắt đầu.  
-*   **Đa năng:** Hỗ trợ nhiều tính năng từ quản lý server, chơi nhạc, đến các trò chơi giải trí.  
+*   **Đa năng:** Hỗ trợ nhiều tính năng từ quản lý server, đến các trò chơi giải trí.  
 *   **Tùy biến cao:** Dễ dàng tùy chỉnh các thiết lập để phù hợp với nhu cầu riêng của server bạn.  
 *   **Luôn được cập nhật:** Chúng tôi liên tục phát triển và bổ sung các tính năng mới để Milo Bot ngày càng hoàn thiện hơn.  
 
@@ -26,8 +26,13 @@ Mọi đóng góp ý kiến, báo lỗi, hoặc đề xuất tính năng đều 
 
 ## Giấy phép 📜  
 
-Milo Bot được phát hành theo giấy phép [**[Tên giấy phép]**](MIT License).  
+Milo Bot được phát hành theo giấy phép [**MIT License and Apache License 2.0**].  
 
 ---  
 
 **Cảm ơn bạn đã sử dụng Milo Bot!** ❤️
+
+## Bản quyền
+*   **Copyright © by Milo Teams. All right reserved** / **Bản quyền © bởi Milo Teams. Tất cả được bảo lưu**.
+*   **
+Any copying or redistribution of this product without our written permission is strictly prohibited.** / **Nghiêm cấm mọi hình thức sao chép hoặc phân phối lại sản phẩm này mà không có sự cho phép bằng văn bản của chúng tôi.**
