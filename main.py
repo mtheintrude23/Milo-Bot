@@ -6458,10 +6458,10 @@ values = ["a", "2", "3", "4", "5", "6", "7", "8", "9", "10", "j", "q", "k"]
 def get_card():
     value = random.choice(values)
     suit = random.choice(suits)
-    return (value, suit, card_emojis[f"{value}{suit}"])  # Trả về số, chất, và emoji
+    return (value, suit, card_emojis[f"{value}{suit}"])
 
 def format_cards(cards):
-    return ' '.join(card[2] for card in cards)  # Only return card emoji
+    return ' '.join(card[2] for card in cards)
 
 card_emojis = {
     "as": "<:as:1279287117704597525>", "ah": "<:ah:1333977563004928031>", "ad": "<:ad:1333977953364611093>", "ac": "<:ac:1333977183789649972>",
@@ -6481,7 +6481,6 @@ card_emojis = {
 
 @bot.command(name="blackjack", aliases=['bj'])
 async def blackjack(ctx, bet: int = 1):
-    # Load data
     econ = load_econ()
     user_id = str(ctx.author.id)
 
@@ -6492,25 +6491,21 @@ async def blackjack(ctx, bet: int = 1):
         await ctx.send(f"<:cancel:1307210917594796032> | Bạn không có đủ tiền để cược.")
         return
 
-    # Deduct bet temporarily
     econ[user_id]["cash"] -= bet
     save_econ(econ)
 
-    # Start the game
     player_cards = [get_card(), get_card()]
     dealer_cards = [get_card(), get_card()]
 
-    # Create embed to display game state
     embed = discord.Embed(title="", description="", color=0x7dbbeb)
     embed.set_author(name=f"{ctx.author.display_name}, bạn cược {bet} để chơi blackjack", icon_url=ctx.author.avatar.url)
-    embed.add_field(name=f"Dealer ``[{dealer_cards[0][0]} + ?]``", value=f"{dealer_cards[0][2]} <:cardback:1279287073659949056>", inline=True)  # Display dealer's first card emoji
-    embed.add_field(name=f"{ctx.author.display_name} ``[{calculate_score([c[0] for c in player_cards])}]``", value=f"{format_cards(player_cards)}", inline=True)  # Display player's cards emoji
+    embed.add_field(name=f"Dealer ``[{dealer_cards[0][0]} + ?]``", value=f"{dealer_cards[0][2]} <:cardback:1279287073659949056>", inline=True)
+    embed.add_field(name=f"{ctx.author.display_name} ``[{calculate_score([c[0] for c in player_cards])}]``", value=f"{format_cards(player_cards)}", inline=True)
     embed.set_footer(text="🎲 ~ trò chơi đang diễn ra")
     message = await ctx.send(embed=embed)
 
-    # Add reactions for actions
-    await message.add_reaction("👊")  # Draw card
-    await message.add_reaction("🛑")  # Stop the game
+    await message.add_reaction("👊")
+    await message.add_reaction("🛑")
 
     def check(reaction, user):
         return user == ctx.author and str(reaction.emoji) in ["👊", "🛑"] and reaction.message.id == message.id
@@ -6519,112 +6514,56 @@ async def blackjack(ctx, bet: int = 1):
         try:
             reaction, user = await bot.wait_for("reaction_add", timeout=60.0, check=check)
 
-            if str(reaction.emoji) == "👊":  # Draw card
+            if str(reaction.emoji) == "👊":
                 player_cards.append(get_card())
-                dealer_cards.append(get_card())
-                player = calculate_score(player_cards)
-                dealer = calculate_score(dealer_cards)
-                if player > 21: # Player loses
-                    color = 0xFF0000
-                    result = f"Bạn đã thua {bet} mlcoin!"
-                elif player > 21 and dealer > 21:
-                    result = "Bạn đã hòa!"
-                    color = 0x808080
-                    econ[user_id]["cash"] += bet
-                elif dealer > 21:
-                    color = 0x00FF00
-                    result = f"Bạn đã thắng {bet} mlcoin!"
-                elif player == 21:
-                    color = 0x00FF00
-                    result = f"Bạn đã thắng {bet} mlcoin!"
-                    econ[user_id]["cash"] += bet * 2
-                elif dealer == 21:
-                    color = 0xFF0000
-                    result = f"Bạn đã thua {bet} mlcoin!"
-                elif player == 21 and dealer == 21:
-                    color = 0x808080
-                    result = f"Bạn đã hòa!"
-                    econ[user_id]["cash"] += bet
-                elif player > dealer:
-                    color = 0x00FF00
-                    result = f"Bạn đã thắng {bet} mlcoin!"
-                    econ[user_id]["cash"] += bet * 2
-                elif dealer > player:
-                    color = 0xFF0000
-                    result = f"Bạn đã thắng {bet} mlcoin!"
-                else:
-                    color = 0x808080
-                    result = f"Bạn đã hòa!"
-                    econ[user_id]["cash"] += bet
-                # Update player cards with new draw
+                player_score = calculate_score(player_cards)
                 await message.remove_reaction("👊", user)
-                embed.set_field_at(0, name=f"Dealer ``[{dealer}]``", value=f"{format_cards(dealer_cards)}", inline=True)
-                embed.set_field_at(1, name=f"{ctx.author.display_name} ``[{calculate_score(player_cards)}]``", value=f"{format_cards(player_cards)}", inline=True)
-                embed.color = color
-                embed.set_footer(text=f"🎲 ~ {result}")
-                await message.clear_reactions()                 
-                await message.edit(embed=embed)
-                save_econ(econ)                
-                break                 
 
-            elif str(reaction.emoji) == "🛑":  # Stop game
+                if player_score > 21:
+                    color = 0xFF0000
+                    result = f"Bạn đã thua {bet} mlcoin!"
+                    break
+                
+                embed.set_field_at(1, name=f"{ctx.author.display_name} ``[{player_score}]``", value=f"{format_cards(player_cards)}", inline=True)
+                await message.edit(embed=embed)
+
+            elif str(reaction.emoji) == "🛑":
                 while calculate_score(dealer_cards) < 17:
                     dealer_cards.append(get_card())
-
-                # Handle result
-                player = calculate_score(player_cards)
-                dealer = calculate_score(dealer_cards)
-
-                if dealer > 21 or player > dealer:
-                    result = f"Bạn đã thắng {bet} mlcoin"
-                    color = 0x00FF00
-                    econ[user_id]["cash"] += bet * 2  # Win x2
-                elif player == 21:
-                    color = 0x00FF00
+                
+                player_score = calculate_score(player_cards)
+                dealer_score = calculate_score(dealer_cards)
+                
+                if dealer_score > 21 or player_score > dealer_score:
                     result = f"Bạn đã thắng {bet} mlcoin!"
+                    color = 0x00FF00
                     econ[user_id]["cash"] += bet * 2
-                elif dealer == 21:
-                    color = 0xFF0000
-                    result = f"Bạn đã thua {bet} mlcoin!"
-                elif player == 21 and dealer == 21:
-                    color = 0x808080
-                    result = f"Bạn đã hòa!"
-                    econ[user_id]["cash"] += bet
-                elif player > 21:
-                    color = 0xFF0000
-                    result = f"Bạn đã thua {bet} mlcoin!"
-                elif player > 21 and dealer > 21:
+                elif player_score == dealer_score:
                     result = "Bạn đã hòa!"
                     color = 0x808080
                     econ[user_id]["cash"] += bet
-                elif player < dealer:
-                    result = f"Bạn đã thua {bet} mlcoin!"
-                    color = 0xFF0000
                 else:
-                    result = "Bạn đã hòa!"
-                    color = 0x808080
-                    econ[user_id]["cash"] += bet  # Refund bet
-
-                # Update dealer cards and result
-                embed.set_field_at(0, name=f"Dealer ``[{dealer}]``", value=f"{format_cards(dealer_cards)}", inline=True)
-                embed.set_field_at(1, name=f"{ctx.author.display_name} ``[{player}]``", value=f"{format_cards(player_cards)}", inline=True)
-                embed.set_footer(text=f"🎲 ~ {result}")
-                embed.color = color
-                await message.edit(embed=embed)
-                await message.clear_reactions()
-                save_econ(econ)  # Save data
+                    result = f"Bạn đã thua {bet} mlcoin!"
+                    color = 0xFF0000
                 break
 
         except asyncio.TimeoutError:
-            embed.color = 0xFF0000
-            embed.set_footer(text="🎲 ~ trò chơi đã bị hủy")  # Timeout footer
-            await message.edit(embed=embed)
-            await message.clear_reactions()
-            econ[user_id]["cash"] += bet  # Refund bet
-            save_econ(econ)
+            result = "Trò chơi đã bị hủy do hết thời gian!"
+            color = 0xFF0000
+            econ[user_id]["cash"] += bet
             break
         except Exception as e:
             print(f"{str(e)}")
+            break
+    
+    embed.set_field_at(0, name=f"Dealer ``[{calculate_score(dealer_cards)}]``", value=f"{format_cards(dealer_cards)}", inline=True)
+    embed.set_field_at(1, name=f"{ctx.author.display_name} ``[{calculate_score(player_cards)}]``", value=f"{format_cards(player_cards)}", inline=True)
+    embed.set_footer(text=f"🎲 ~ {result}")
+    embed.color = color
+    await message.edit(embed=embed)
+    await message.clear_reactions()
+    save_econ(econ)
+
 class ConfirmView(View):
     def __init__(self, channel, author):
         super().__init__(timeout=30)
@@ -6639,7 +6578,7 @@ class ConfirmView(View):
             return
 
         self.result = True
-        self.stop()  # Dừng view
+        self.stop()
         await interaction.response.defer()
 
     @discord.ui.button(label="Hủy", style=discord.ButtonStyle.danger)
@@ -6649,7 +6588,7 @@ class ConfirmView(View):
             return
 
         self.result = False
-        self.stop()  # Dừng view
+        self.stop()
         await interaction.response.defer()
 
 @bot.command()
@@ -6658,7 +6597,6 @@ async def nuke(ctx, channel: discord.TextChannel = None):
     if channel is None:
         channel = ctx.channel
 
-    # Tạo view xác nhận
     view = ConfirmView(channel, ctx.author)
     embed = discord.Embed(
         title="Bạn chắc chứ?",
@@ -6667,7 +6605,6 @@ async def nuke(ctx, channel: discord.TextChannel = None):
     )
     await ctx.send(embed=embed, view=view)
 
-    # Chờ người dùng nhấn nút
     await view.wait()
 
     if view.result is None:
@@ -6681,10 +6618,7 @@ async def nuke(ctx, channel: discord.TextChannel = None):
         position = channel.position
         overwrites = channel.overwrites
 
-        # Xóa kênh
         await channel.delete()
-
-        # Tạo lại kênh
         new_channel = await guild.create_text_channel(
             name=channel.name,
             category=category,
@@ -6787,7 +6721,8 @@ async def create_bank_page(bot):
     return embed  
 
 
-@bot.command(name='listbank', description="Xem tất cả người dùng trong bank (admin only)") 
+@bot.command(name='listbank', description="Xem tất cả người dùng trong bank (admin only)")
+@command.owner_id()
 async def listbank(ctx):  
     global page, per_page, bank_data, total_pages   
 
@@ -6859,98 +6794,5 @@ async def listbank(ctx):
     view.add_item(last_page_button)  
 
     message = await ctx.send(embed=embed, view=view)  
-import inspect
-@bot.command(name='eval')
-@commands.is_owner()  
-async def eval(ctx, *, body):  
-    """Evaluates python code"""  
-    bot = ctx.bot  # Lấy bot instance từ context  
-    blocked_words = ['.delete()', 'os', 'subprocess', 'history()', '("token")', "('token')",  
-                     'aW1wb3J0IG9zCnJldHVybiBvcy5lbnZpcm9uLmdldCgndG9rZW4nKQ==', 'aW1wb3J0IG9zCnByaW50KG9zLmVudmlyb24uZ2V0KCd0b2tlbicpKQ==']  
-    if ctx.author.id != bot.owner_id:  
-        for x in blocked_words:  
-            if x in body:  
-                return await ctx.send('Code của bạn chứa từ bị cấm')  
-    env = {  
-        'ctx': ctx,  
-        'channel': ctx.channel,  
-        'author': ctx.author,  
-        'guild': ctx.guild,  
-        'message': ctx.message,  
-        'source': inspect.getsource,  
-        'session': bot.session,  
-        'bot': bot  # Thêm bot vào env  
-    }  
 
-    env.update(globals())  
-
-    stdout = io.StringIO()  
-    err = out = None  
-
-    to_compile = f'async def func():\n{textwrap.indent(body, "  ")}'  
-
-    # def paginate(text: str):  # Bỏ định nghĩa paginate  
-    #     '''Simple generator that paginates text.'''  
-    #     last = 0  
-    #     pages = []  
-    #     for curr in range(0, len(text)):  
-    #         if curr % 1980 == 0:  
-    #             pages.append(text[last:curr])  
-    #             last = curr  
-    #             appd_index = curr  
-    #     if appd_index != len(text)-1:  
-    #         pages.append(text[last:curr])  
-    #     return list(filter(lambda a: a != '', pages))  
-    
-    try:  
-        exec(to_compile, env)  
-    except Exception as e:  
-        err = await ctx.send(f'```py\n{e.__class__.__name__}: {e}\n```')  
-        return await ctx.message.add_reaction('\u2049')  
-
-    func = env['func']  
-    try:  
-        with contextlib.redirect_stdout(stdout):  
-            ret = await func()  
-    except Exception as e:  
-        value = stdout.getvalue()  
-        err = await ctx.send(f'```py\n{value}{traceback.format_exc()}\n```')  
-    else:  
-        value = stdout.getvalue()  
-        if ret is None:  
-            if value:  
-                try:  
-                    out = await ctx.send(f'```py\n{value}\n```')  
-                except:  
-                    out = await ctx.send("Output quá dài để hiển thị.") # Thay vì paginate, báo lỗi  
-                    # paginated_text = paginate(value)  # Bỏ paginate  
-                    # for page in paginated_text:  
-                    #     if page == paginated_text[-1]:  
-                    #         out = await ctx.send(f'```py\n{page}\n```')  
-                    #         break  
-                    #     await ctx.send(f'```py\n{page}\n```')  
-        else:  
-            bot._last_result = ret  
-            try:  
-                out = await ctx.send(f'```py\n{value}{ret}\n```')  
-            except:  
-                 out = await ctx.send("Output quá dài để hiển thị.") # Thay vì paginate, báo lỗi  
-                # paginated_text = paginate(f"{value}{ret}") # Bỏ paginate  
-                # for page in paginated_text:  
-                #     if page == paginated_text[-1]:  
-                #         out = await ctx.send(f'```py\n{page}\n```')  
-                #         break  
-                #     await ctx.send(f'```py\n{page}\n```')  
-
-    if out:  
-        await ctx.message.add_reaction('\u2705')  # tick  
-    elif err:  
-        await ctx.message.add_reaction('\u2049')  # x  
-    else:  
-        await ctx.message.add_reaction('\u2705')  
-
-def get_syntax_error(e):  
-    if e.text is None:  
-        return f'```py\n{e.__class__.__name__}: {e}\n```'  
-    return f'```py\n{e.text}{"^":>{e.offset}}\n{e.__class__.__name__}: {e}```'  
-bot.run("MTMzNTEwOTU0ODI3NjcxNTYzMg.GFLCln.3HkL2snWfyku2daH8R98YhE5pCSPEvfEqaMyYo")
+bot.run("YOUR_TOKEN")
