@@ -1,0 +1,8216 @@
+{
+    "1213350197149827074": {
+        "level": 4,
+        "xp": 1388,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "1272551073927794718": {
+        "level": 5,
+        "xp": 2951,
+        "xp_required": 8100,
+        "qua_da_nhan": 1000
+    },
+    "1188018759429013534": {
+        "level": 3,
+        "xp": 664,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1203908169592733809": {
+        "level": 5,
+        "xp": 1212,
+        "xp_required": 8100,
+        "qua_da_nhan": 1000
+    },
+    "1076718149094871072": {
+        "level": 1,
+        "xp": 26,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1235137010939854898": {
+        "level": 4,
+        "xp": 513,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "1260168404984139797": {
+        "level": 5,
+        "xp": 450,
+        "xp_required": 8100,
+        "qua_da_nhan": 1000
+    },
+    "1167672204884983890": {
+        "level": 6,
+        "xp": 1763,
+        "xp_required": 24300,
+        "qua_da_nhan": 1000
+    },
+    "1103717241268207636": {
+        "level": 6,
+        "xp": 4835,
+        "xp_required": 24300,
+        "qua_da_nhan": 1000
+    },
+    "1132683772945502389": {
+        "level": 5,
+        "xp": 224,
+        "xp_required": 8100,
+        "qua_da_nhan": 1000
+    },
+    "1194076703987875972": {
+        "level": 1,
+        "xp": 38,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "847341889015644171": {
+        "level": 2,
+        "xp": 5,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1123163002942799923": {
+        "level": 5,
+        "xp": 1582,
+        "xp_required": 8100,
+        "qua_da_nhan": 1000
+    },
+    "1126862617533763707": {
+        "level": 4,
+        "xp": 444,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "772785641544089630": {
+        "level": 3,
+        "xp": 227,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1210868571014430752": {
+        "level": 5,
+        "xp": 258,
+        "xp_required": 8100,
+        "qua_da_nhan": 1000
+    },
+    "914786303235719178": {
+        "level": 3,
+        "xp": 372,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "932532539871072326": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 100
+    },
+    "1151974834968997969": {
+        "level": 1,
+        "xp": 52,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "899982945920626728": {
+        "level": 1,
+        "xp": 42,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1025271623869288468": {
+        "level": 4,
+        "xp": 1100,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "917716848936624128": {
+        "level": 4,
+        "xp": 233,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "1162948810255913050": {
+        "level": 5,
+        "xp": 754,
+        "xp_required": 8100,
+        "qua_da_nhan": 1000
+    },
+    "1163421051385024522": {
+        "level": 2,
+        "xp": 54,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "678992527864496129": {
+        "level": 4,
+        "xp": 415,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "1193068051978002444": {
+        "level": 2,
+        "xp": 216,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "935360187777318943": {
+        "level": 1,
+        "xp": 24,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1265289927592251467": {
+        "level": 3,
+        "xp": 551,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1194530913095254070": {
+        "level": 2,
+        "xp": 159,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1115234452721913937": {
+        "level": 5,
+        "xp": 679,
+        "xp_required": 8100,
+        "qua_da_nhan": 1000
+    },
+    "994104547817570304": {
+        "level": 2,
+        "xp": 195,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "957827481438683168": {
+        "level": 6,
+        "xp": 1015,
+        "xp_required": 24300,
+        "qua_da_nhan": 1000
+    },
+    "1165146194595561582": {
+        "level": 3,
+        "xp": 279,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1271079928271474779": {
+        "level": 3,
+        "xp": 315,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1007943714989146152": {
+        "level": 5,
+        "xp": 152,
+        "xp_required": 8100,
+        "qua_da_nhan": 1000
+    },
+    "1071085825246371910": {
+        "level": 2,
+        "xp": 299,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1028551102309875723": {
+        "level": 3,
+        "xp": 341,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1186299001251831828": {
+        "level": 2,
+        "xp": 85,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1230052999293042728": {
+        "level": 3,
+        "xp": 653,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1143567124036583628": {
+        "level": 1,
+        "xp": 18,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1176517660570288178": {
+        "level": 5,
+        "xp": 845,
+        "xp_required": 8100,
+        "qua_da_nhan": 1000
+    },
+    "1081847197596909690": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "860408027425538068": {
+        "level": 1,
+        "xp": 10,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1192465502421913731": {
+        "level": 4,
+        "xp": 1643,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "1263771870059167840": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1249701717205975097": {
+        "level": 1,
+        "xp": 18,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1231533986921185361": {
+        "level": 1,
+        "xp": 45,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1167717809170677765": {
+        "level": 3,
+        "xp": 730,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1048770744903028746": {
+        "level": 4,
+        "xp": 445,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "1179190651666047098": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 100
+    },
+    "1005423790668402748": {
+        "level": 1,
+        "xp": 20,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "928963145920299008": {
+        "level": 3,
+        "xp": 163,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "893844812065812511": {
+        "level": 4,
+        "xp": 1687,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "1085190530771722301": {
+        "level": 1,
+        "xp": 87,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "995534514141024306": {
+        "level": 4,
+        "xp": 759,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "1020981999999144027": {
+        "level": 2,
+        "xp": 144,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "918877484987080755": {
+        "level": 1,
+        "xp": 74,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1061247823099740251": {
+        "level": 2,
+        "xp": 155,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1180349845647659088": {
+        "level": 4,
+        "xp": 109,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "1259508934381666418": {
+        "level": 1,
+        "xp": 13,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1043733916391055380": {
+        "level": 4,
+        "xp": 510,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "1196825067674423387": {
+        "level": 3,
+        "xp": 273,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1136333057016745994": {
+        "level": 3,
+        "xp": 254,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "507784609384366090": {
+        "level": 4,
+        "xp": 2632,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "1288894477670285320": {
+        "level": 1,
+        "xp": 36,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1035715680093360138": {
+        "level": 2,
+        "xp": 128,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "944114210902786079": {
+        "level": 3,
+        "xp": 29,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1029283097780420709": {
+        "level": 3,
+        "xp": 605,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1239487761296396393": {
+        "level": 2,
+        "xp": 280,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1233247047193333823": {
+        "level": 1,
+        "xp": 41,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1267696957653123127": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 100
+    },
+    "1046425112754262016": {
+        "level": 2,
+        "xp": 96,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1175437885445525564": {
+        "level": 2,
+        "xp": 24,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1052961728238989402": {
+        "level": 3,
+        "xp": 83,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "977816502055075870": {
+        "level": 4,
+        "xp": 117,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "891541414255657000": {
+        "level": 3,
+        "xp": 745,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1167729114959065152": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "986274495943835648": {
+        "level": 1,
+        "xp": 50,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "928069542670897152": {
+        "level": 2,
+        "xp": 156,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1274207800884465674": {
+        "level": 4,
+        "xp": 34,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "1154719785016377426": {
+        "level": 3,
+        "xp": 220,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1254352613307191387": {
+        "level": 1,
+        "xp": 60,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1142428942880493610": {
+        "level": 2,
+        "xp": 152,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1274714376938455063": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 100
+    },
+    "1268810499605135485": {
+        "level": 1,
+        "xp": 33,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "723088389863112776": {
+        "level": 2,
+        "xp": 97,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "994501003120480296": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 100
+    },
+    "1210201252231774338": {
+        "level": 5,
+        "xp": 1302,
+        "xp_required": 8100,
+        "qua_da_nhan": 1000
+    },
+    "1188496934869143673": {
+        "level": 3,
+        "xp": 583,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1278286901794705488": {
+        "level": 4,
+        "xp": 826,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "1183783878918406155": {
+        "level": 2,
+        "xp": 197,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1038705059560697907": {
+        "level": 1,
+        "xp": 43,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1176812830511603803": {
+        "level": 2,
+        "xp": 76,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1188347615176298566": {
+        "level": 1,
+        "xp": 41,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1219514896778133594": {
+        "level": 3,
+        "xp": 435,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1128561646953054240": {
+        "level": 2,
+        "xp": 145,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1251056403850985477": {
+        "level": 2,
+        "xp": 0,
+        "xp_required": 300,
+        "qua_da_nhan": 3000
+    },
+    "1240633181510697015": {
+        "level": 1,
+        "xp": 11,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1162381214209015888": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 100
+    },
+    "933568608016146583": {
+        "level": 4,
+        "xp": 494,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "1180693262193938432": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 100
+    },
+    "1236823917155319918": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1215513608210087977": {
+        "level": 4,
+        "xp": 253,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "1245649365142601732": {
+        "level": 5,
+        "xp": 2613,
+        "xp_required": 8100,
+        "qua_da_nhan": 1000
+    },
+    "1278867909229285448": {
+        "level": 4,
+        "xp": 815,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "1190669965993459814": {
+        "level": 3,
+        "xp": 62,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1005345952401477644": {
+        "level": 3,
+        "xp": 388,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1173843211916165140": {
+        "level": 3,
+        "xp": 131,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1297532625254224045": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 100
+    },
+    "1202565263057485844": {
+        "level": 3,
+        "xp": 301,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1164158414784581694": {
+        "level": 3,
+        "xp": 120,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "955474443386388490": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "967071120429809665": {
+        "level": 2,
+        "xp": 196,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1131815326582067201": {
+        "level": 3,
+        "xp": 385,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1262037749448572971": {
+        "level": 1,
+        "xp": 11,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1230521475468099727": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1234144932176855040": {
+        "level": 1,
+        "xp": 26,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1233065459981615234": {
+        "level": 1,
+        "xp": 17,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1123442860763652188": {
+        "level": 5,
+        "xp": 2463,
+        "xp_required": 8100,
+        "qua_da_nhan": 1000
+    },
+    "842772311056711680": {
+        "level": 2,
+        "xp": 36,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1268177117363961927": {
+        "level": 4,
+        "xp": 898,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "1012811125290700800": {
+        "level": 2,
+        "xp": 297,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1185496072781570109": {
+        "level": 1,
+        "xp": 23,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "980448619297669150": {
+        "level": 3,
+        "xp": 649,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1126382652233093211": {
+        "level": 2,
+        "xp": 121,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1278330596338176066": {
+        "level": 1,
+        "xp": 10,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1034652297499787333": {
+        "level": 4,
+        "xp": 653,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "1115923130418995200": {
+        "level": 1,
+        "xp": 18,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "602880669093330945": {
+        "level": 1,
+        "xp": 25,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1227616236460834887": {
+        "level": 3,
+        "xp": 93,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1213665011075911690": {
+        "level": 1,
+        "xp": 74,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1124649866912612433": {
+        "level": 3,
+        "xp": 568,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1270741503303483447": {
+        "level": 2,
+        "xp": 104,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1185486407171579907": {
+        "level": 1,
+        "xp": 40,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1075405000722894888": {
+        "level": 3,
+        "xp": 255,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1059029020613824592": {
+        "level": 4,
+        "xp": 431,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "1159740228995653642": {
+        "level": 1,
+        "xp": 13,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1038353323327225856": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1192007841037438990": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1096954210483978250": {
+        "level": 4,
+        "xp": 1026,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "1071766115249832017": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1131056866500292680": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1154231693302046801": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1138094783424901131": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1247526987661312051": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "885003078980476978": {
+        "level": 1,
+        "xp": 71,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1296750613937262592": {
+        "level": 1,
+        "xp": 58,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1241840397261475902": {
+        "level": 2,
+        "xp": 235,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1215664098348630039": {
+        "level": 4,
+        "xp": 476,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "1256188953812406302": {
+        "level": 4,
+        "xp": 1520,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "1238082731590684772": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1276761818555224075": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1239930846350147597": {
+        "level": 1,
+        "xp": 43,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1186222313927082008": {
+        "level": 1,
+        "xp": 12,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1077147752313671740": {
+        "level": 3,
+        "xp": 0,
+        "xp_required": 900,
+        "qua_da_nhan": 3000
+    },
+    "1180363673487814756": {
+        "level": 2,
+        "xp": 32,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1237190663762608219": {
+        "level": 2,
+        "xp": 123,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "985128150029697064": {
+        "level": 1,
+        "xp": 18,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1127218851319398490": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1024323437029773325": {
+        "level": 1,
+        "xp": 20,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1099226397412700160": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1173950588027928596": {
+        "level": 2,
+        "xp": 53,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1145576587799035965": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1274960946980458527": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1041302944060014672": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1132649102023344128": {
+        "level": 1,
+        "xp": 18,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1148827449807880192": {
+        "level": 1,
+        "xp": 13,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1065899612105347133": {
+        "level": 1,
+        "xp": 27,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1216994568017416263": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1043482611823169569": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1140810377463070720": {
+        "level": 1,
+        "xp": 12,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1176465413408829530": {
+        "level": 2,
+        "xp": 196,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1028143847768866876": {
+        "level": 5,
+        "xp": 1335,
+        "xp_required": 8100,
+        "qua_da_nhan": 1000
+    },
+    "1184115336472166454": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1182317991745048577": {
+        "level": 1,
+        "xp": 50,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1277605631724884013": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1165643542148939867": {
+        "level": 1,
+        "xp": 38,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1227627262975807529": {
+        "level": 1,
+        "xp": 17,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "845960743495925760": {
+        "level": 3,
+        "xp": 306,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1168047861930414102": {
+        "level": 2,
+        "xp": 27,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1154419724168470558": {
+        "level": 1,
+        "xp": 47,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1062732875214102638": {
+        "level": 1,
+        "xp": 17,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1241980572054585364": {
+        "level": 3,
+        "xp": 718,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1035176694954336276": {
+        "level": 1,
+        "xp": 33,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1223648352286019644": {
+        "level": 2,
+        "xp": 80,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1269843968888406122": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1140206790227787867": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1002216397021122601": {
+        "level": 3,
+        "xp": 199,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "899113040363020318": {
+        "level": 1,
+        "xp": 59,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1183395091193278525": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "950668177715626025": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "890882430905483305": {
+        "level": 1,
+        "xp": 44,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1148178208026525697": {
+        "level": 2,
+        "xp": 108,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1289411027603034128": {
+        "level": 1,
+        "xp": 51,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1262043255198060606": {
+        "level": 3,
+        "xp": 331,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1284174024670183538": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "890423030805844029": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1165268142902231073": {
+        "level": 1,
+        "xp": 98,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1238683400726904912": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1295335840331071568": {
+        "level": 1,
+        "xp": 47,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1125632692155863090": {
+        "level": 1,
+        "xp": 37,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "902524728193986560": {
+        "level": 1,
+        "xp": 32,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1145230628732809246": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1251442494571286550": {
+        "level": 1,
+        "xp": 11,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1176076467680051230": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1007994712680054826": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1265144441643995216": {
+        "level": 1,
+        "xp": 27,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1153991154069671949": {
+        "level": 3,
+        "xp": 123,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1218493399028469770": {
+        "level": 4,
+        "xp": 1774,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "986620619938484264": {
+        "level": 1,
+        "xp": 15,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1172360346883850391": {
+        "level": 1,
+        "xp": 11,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1219200091777269792": {
+        "level": 2,
+        "xp": 259,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "901701968161046589": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1060449413446770732": {
+        "level": 1,
+        "xp": 60,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1138148586828345415": {
+        "level": 1,
+        "xp": 10,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1113000986978562079": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "832871401685123072": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1244589740733501495": {
+        "level": 4,
+        "xp": 229,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "1191391865866551397": {
+        "level": 1,
+        "xp": 23,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1297830679991554138": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1186964187772096545": {
+        "level": 1,
+        "xp": 56,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1274794024934309918": {
+        "level": 2,
+        "xp": 32,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1104311548970799125": {
+        "level": 1,
+        "xp": 23,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1189034156760510524": {
+        "level": 3,
+        "xp": 86,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "754971068548120646": {
+        "level": 1,
+        "xp": 21,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "947122822390632489": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "906165492614594560": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1249019736658939969": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "906149099588448287": {
+        "level": 1,
+        "xp": 18,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1122484416212652034": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1193137227027456046": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1287387157358444577": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1189110232224366673": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1021348925195694102": {
+        "level": 3,
+        "xp": 79,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1206228100837539844": {
+        "level": 1,
+        "xp": 24,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1254653828553248769": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1136237409894408213": {
+        "level": 2,
+        "xp": 265,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1210766494409949204": {
+        "level": 1,
+        "xp": 14,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1202482030227624008": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1280393894856495130": {
+        "level": 1,
+        "xp": 47,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1002446369459552326": {
+        "level": 1,
+        "xp": 29,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1063594276585472080": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1226434425236226141": {
+        "level": 2,
+        "xp": 88,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1004204848339759194": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1134353749679288350": {
+        "level": 2,
+        "xp": 237,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "881478490912870430": {
+        "level": 1,
+        "xp": 50,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1082676830982635550": {
+        "level": 1,
+        "xp": 21,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1255531536976052286": {
+        "level": 2,
+        "xp": 1,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1228523072705925144": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1276032083675971587": {
+        "level": 1,
+        "xp": 28,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1193355136400105522": {
+        "level": 1,
+        "xp": 12,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1209361400170815570": {
+        "level": 3,
+        "xp": 3,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1246320503329787980": {
+        "level": 3,
+        "xp": 50,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1154746219894161548": {
+        "level": 1,
+        "xp": 17,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1090979642367803412": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1234738951152074772": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1208027384801132595": {
+        "level": 1,
+        "xp": 12,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1161280137065664564": {
+        "level": 2,
+        "xp": 69,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1041345219100156015": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1278142425889509397": {
+        "level": 1,
+        "xp": 12,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1292327342118797354": {
+        "level": 1,
+        "xp": 27,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1290326139591721047": {
+        "level": 1,
+        "xp": 65,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "716209674017439804": {
+        "level": 1,
+        "xp": 29,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1228953256240218142": {
+        "level": 1,
+        "xp": 13,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1202844911984975912": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "918694020077736059": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1245002401543487559": {
+        "level": 1,
+        "xp": 10,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1010818019154477096": {
+        "level": 1,
+        "xp": 39,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "931581197761540116": {
+        "level": 1,
+        "xp": 94,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "502643731057475631": {
+        "level": 1,
+        "xp": 80,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1205394457244213298": {
+        "level": 1,
+        "xp": 60,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1200615138336718970": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1124276735526064199": {
+        "level": 4,
+        "xp": 1566,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "1293058195429916704": {
+        "level": 1,
+        "xp": 14,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1251835630116143115": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1298463029532557393": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1250871191833415793": {
+        "level": 1,
+        "xp": 31,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1149561622810079243": {
+        "level": 1,
+        "xp": 48,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1191006568561516599": {
+        "level": 2,
+        "xp": 161,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1119552292555849819": {
+        "level": 1,
+        "xp": 12,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "769009403046264864": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1227306998799011922": {
+        "level": 1,
+        "xp": 27,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1264899181693112434": {
+        "level": 1,
+        "xp": 16,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1278240863214108710": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1167759317903089684": {
+        "level": 1,
+        "xp": 35,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1204934717770825748": {
+        "level": 1,
+        "xp": 36,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1278317888310218793": {
+        "level": 1,
+        "xp": 21,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1201127995117678693": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1271153850425802852": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1075384807053344778": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1264186472060424259": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1173461914555273256": {
+        "level": 1,
+        "xp": 12,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1224336495712796843": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1185433758434865234": {
+        "level": 1,
+        "xp": 51,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1164576798038831135": {
+        "level": 1,
+        "xp": 64,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1274021424918564921": {
+        "level": 1,
+        "xp": 20,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1155302066231709757": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1050266343175376966": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1066318318866280468": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1161520017603563600": {
+        "level": 1,
+        "xp": 55,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1230324374272344064": {
+        "level": 1,
+        "xp": 51,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1058640352266956830": {
+        "level": 1,
+        "xp": 48,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1122402964317933688": {
+        "level": 1,
+        "xp": 17,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1245617245703635034": {
+        "level": 1,
+        "xp": 79,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1075772359534977037": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1197786676425130054": {
+        "level": 1,
+        "xp": 17,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "996041384177959003": {
+        "level": 1,
+        "xp": 12,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1208786108503302186": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1144918905027051530": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1298149117431648276": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "976755456951345162": {
+        "level": 1,
+        "xp": 26,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1276193218807070905": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1149966189364264980": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1142784472329244733": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1077942922638528557": {
+        "level": 1,
+        "xp": 20,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1143897955829551144": {
+        "level": 1,
+        "xp": 13,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1267369681191305217": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1256964279920365730": {
+        "level": 1,
+        "xp": 85,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1250975730683351048": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1063774643309256704": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1254313438356963383": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1247140657655451730": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1207362277079130176": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "910804659583746129": {
+        "level": 1,
+        "xp": 14,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1272053987092201492": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1204756170515157039": {
+        "level": 1,
+        "xp": 13,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1120482802752823297": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1272202971773665341": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1173596794597408800": {
+        "level": 2,
+        "xp": 59,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1247171701221888090": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1239413152500809790": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1263165119345725461": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1153705203896418416": {
+        "level": 1,
+        "xp": 37,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1179020626997018684": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1125365292462260284": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "895547029932081183": {
+        "level": 1,
+        "xp": 62,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "972850434505068604": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1252144378231914516": {
+        "level": 1,
+        "xp": 47,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1076502725212254260": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1273944139410440193": {
+        "level": 1,
+        "xp": 27,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1286708570049478772": {
+        "level": 2,
+        "xp": 59,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1002788229881282641": {
+        "level": 1,
+        "xp": 11,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1199860565405859862": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1079292658243080272": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1251553876516143288": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1063441455286321253": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1148218390511632455": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1270927377135960129": {
+        "level": 1,
+        "xp": 17,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1025251960733040732": {
+        "level": 1,
+        "xp": 43,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1052946646650081320": {
+        "level": 1,
+        "xp": 11,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1095522565751050292": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1257889395768430592": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1294199873192591404": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1279311079637385216": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1166977604172136479": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1119460336131657819": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "953912812260982814": {
+        "level": 1,
+        "xp": 23,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1117034490309652521": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1262399796769984586": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1292327201844494440": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1252117104501592104": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1118030073300271115": {
+        "level": 1,
+        "xp": 23,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1093909993381699594": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1031279064520069281": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1166020967135445102": {
+        "level": 1,
+        "xp": 24,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1039869242738216960": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1185622347340861530": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "891695789443780660": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1190651917756530780": {
+        "level": 1,
+        "xp": 83,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1175528912701374542": {
+        "level": 1,
+        "xp": 48,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1155443856528121868": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1169278865277980815": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1159691976116019251": {
+        "level": 1,
+        "xp": 53,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1265864713003339788": {
+        "level": 1,
+        "xp": 20,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1007248179642769408": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1178317726385704960": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1252628361264631924": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1275000242756128910": {
+        "level": 1,
+        "xp": 12,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1065561410068811797": {
+        "level": 1,
+        "xp": 37,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1279981089783287838": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1191632169727164526": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1124264170355970049": {
+        "level": 1,
+        "xp": 64,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1043194079544094812": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1184443188644163596": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1184375284829540472": {
+        "level": 1,
+        "xp": 10,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1013789054569029753": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1280008724143935624": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1113486170396053554": {
+        "level": 1,
+        "xp": 29,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1063621290080084060": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1096759495243354172": {
+        "level": 4,
+        "xp": 422,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "1241726568808841319": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "836081443137912862": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1188803184941072466": {
+        "level": 1,
+        "xp": 83,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1191394390208417843": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "967336571038761001": {
+        "level": 1,
+        "xp": 13,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1270594660888481909": {
+        "level": 2,
+        "xp": 96,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1117712311407362058": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1264087218289381449": {
+        "level": 1,
+        "xp": 51,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "912180183258234900": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1161953510426947594": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1159820860660666368": {
+        "level": 1,
+        "xp": 30,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1262243162332729379": {
+        "level": 1,
+        "xp": 33,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1177214128771833916": {
+        "level": 1,
+        "xp": 85,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "880694639227699290": {
+        "level": 1,
+        "xp": 38,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1281979587223490645": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1244286631037636650": {
+        "level": 1,
+        "xp": 57,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1079709598996500531": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "925963869271240744": {
+        "level": 4,
+        "xp": 1192,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "1144545759950274600": {
+        "level": 2,
+        "xp": 26,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1069508767688962088": {
+        "level": 1,
+        "xp": 34,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1252421815096053872": {
+        "level": 1,
+        "xp": 48,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1276391933215772754": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "928966821485371392": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1141224788912771114": {
+        "level": 4,
+        "xp": 116,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "1127499531861381211": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1089818312424304691": {
+        "level": 1,
+        "xp": 22,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1253947784588169240": {
+        "level": 1,
+        "xp": 12,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1284741642951069757": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1119082715640250499": {
+        "level": 1,
+        "xp": 64,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1162754719001874572": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "981027588946395156": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1252827462061264997": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1144865874298286113": {
+        "level": 1,
+        "xp": 27,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1161261419019390998": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1255717292742803567": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1297195796826951722": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "903240808310898718": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1234028004397809737": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1204448255019065475": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1156179153343750164": {
+        "level": 1,
+        "xp": 26,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1143576184261705828": {
+        "level": 1,
+        "xp": 23,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1000960222728302674": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "852087487157633035": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1053923261051842560": {
+        "level": 1,
+        "xp": 29,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1232920642077331588": {
+        "level": 4,
+        "xp": 268,
+        "xp_required": 2700,
+        "qua_da_nhan": 1000
+    },
+    "1272783738853523498": {
+        "level": 1,
+        "xp": 68,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1277695372126453800": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "892329475663085578": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1160504630711681105": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1298608406172663914": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "643023248673734656": {
+        "level": 1,
+        "xp": 13,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1157501182042972260": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "897387470172323901": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1274964241140416612": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1297190204670476392": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1071698719990362153": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1240949252474015749": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1259431513737662525": {
+        "level": 1,
+        "xp": 18,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1259256761165152347": {
+        "level": 1,
+        "xp": 24,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1282548429100154971": {
+        "level": 1,
+        "xp": 15,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1088824235700527108": {
+        "level": 1,
+        "xp": 30,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1234866277412110383": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1289607789533990965": {
+        "level": 2,
+        "xp": 152,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1010884800288145529": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1059993040644751430": {
+        "level": 1,
+        "xp": 18,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "888979402560507914": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1278289757503229972": {
+        "level": 1,
+        "xp": 18,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1271841693989212241": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1181964505278853150": {
+        "level": 1,
+        "xp": 31,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1276437682196578354": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1120694597589422120": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1189778072006828075": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1178540845113299034": {
+        "level": 2,
+        "xp": 13,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1247118434517651466": {
+        "level": 3,
+        "xp": 0,
+        "xp_required": 900,
+        "qua_da_nhan": 3000
+    },
+    "1250285144825270336": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1035846072221839420": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "996368459413860434": {
+        "level": 1,
+        "xp": 18,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1171475733235908659": {
+        "level": 1,
+        "xp": 35,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1110564083687751741": {
+        "level": 1,
+        "xp": 11,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1299750657477050490": {
+        "level": 1,
+        "xp": 53,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1098599394934276226": {
+        "level": 1,
+        "xp": 69,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "887629289137242112": {
+        "level": 1,
+        "xp": 11,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "929198793159761950": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1244235061411446884": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1240359655587184682": {
+        "level": 1,
+        "xp": 10,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1282345308382302350": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1279365076276744335": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1248918973643227176": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1075395808339435592": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1188358085551595590": {
+        "level": 1,
+        "xp": 23,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1260960738680373348": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "933626822703325234": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1266623979872059452": {
+        "level": 1,
+        "xp": 24,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1173459859325329479": {
+        "level": 2,
+        "xp": 36,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1191160190620422239": {
+        "level": 2,
+        "xp": 150,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1005818910588813412": {
+        "level": 3,
+        "xp": 886,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1249641370398752822": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "906135978819854436": {
+        "level": 2,
+        "xp": 85,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1018760738539573269": {
+        "level": 1,
+        "xp": 16,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1207204662407729233": {
+        "level": 1,
+        "xp": 85,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1247489930628694047": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1242359274458452039": {
+        "level": 1,
+        "xp": 77,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1168883659290464318": {
+        "level": 3,
+        "xp": 839,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1272943415046312052": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1193554374622982154": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1171654257720692739": {
+        "level": 1,
+        "xp": 11,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "955006258539266139": {
+        "level": 2,
+        "xp": 30,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1231431170307395766": {
+        "level": 1,
+        "xp": 30,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1247519625835446434": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1154658564451864617": {
+        "level": 1,
+        "xp": 59,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1089166184781459467": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1086527907670794290": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1043748141826056222": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "998760530309304330": {
+        "level": 3,
+        "xp": 345,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1209783619401547867": {
+        "level": 1,
+        "xp": 11,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1210158513569931269": {
+        "level": 2,
+        "xp": 148,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1238816540355461221": {
+        "level": 1,
+        "xp": 14,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1300103643995050034": {
+        "level": 1,
+        "xp": 13,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1102838044891029525": {
+        "level": 3,
+        "xp": 188,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1290673415312637974": {
+        "level": 2,
+        "xp": 124,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1064891580219146240": {
+        "level": 1,
+        "xp": 85,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1184518955184955472": {
+        "level": 1,
+        "xp": 20,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1041302766586445904": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1183931845763674216": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "858287903968854046": {
+        "level": 1,
+        "xp": 17,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1166736142939459686": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1214522687292973056": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1189782423219732501": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1209015564530614323": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1135799146545172520": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1242075563766841344": {
+        "level": 1,
+        "xp": 49,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1233740853407649793": {
+        "level": 2,
+        "xp": 34,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "922035365634785330": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1234415139101347912": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1183395473923506237": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1160088136328695899": {
+        "level": 2,
+        "xp": 150,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1298933655380430922": {
+        "level": 1,
+        "xp": 12,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1174682148322676799": {
+        "level": 1,
+        "xp": 12,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1287052435902173279": {
+        "level": 2,
+        "xp": 1,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1257537453762285590": {
+        "level": 1,
+        "xp": 45,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1059059589359865946": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1064444032136253490": {
+        "level": 1,
+        "xp": 13,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1168453766052335629": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1272556242073817270": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "916178389499531275": {
+        "level": 1,
+        "xp": 28,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "777378101273296926": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "968496270899576832": {
+        "level": 1,
+        "xp": 61,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1188400878948974704": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1210095491841265707": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "952148116608540702": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1291734813564469355": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1181843531753586801": {
+        "level": 2,
+        "xp": 98,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1249021625265819810": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1255560538466029601": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1179284747176902666": {
+        "level": 1,
+        "xp": 10,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1196030568408821840": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1105065989940445235": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1109836483273183404": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1291042459492548720": {
+        "level": 1,
+        "xp": 15,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1220353332674170975": {
+        "level": 1,
+        "xp": 95,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1234044745693663242": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1165194807384232029": {
+        "level": 1,
+        "xp": 18,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1151859601814327357": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1128926922458529883": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "818828052187578409": {
+        "level": 1,
+        "xp": 44,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1181823787545669677": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1102219277790097468": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1242485475881652357": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "899454964529766490": {
+        "level": 1,
+        "xp": 30,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1244538281270575179": {
+        "level": 1,
+        "xp": 28,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1249516940939104368": {
+        "level": 1,
+        "xp": 40,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1278741668853583882": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1226299674802126989": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1251150657755283590": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1298980346930401302": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1090905905060659251": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1186123261357072515": {
+        "level": 1,
+        "xp": 30,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "876432759340544020": {
+        "level": 3,
+        "xp": 74,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1154337683875835944": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1040590404745179242": {
+        "level": 1,
+        "xp": 53,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1028551762770137089": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1223890638379159562": {
+        "level": 1,
+        "xp": 12,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "939745275839410236": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "737568878733033552": {
+        "level": 1,
+        "xp": 47,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1285446998970859605": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1150376163349368923": {
+        "level": 1,
+        "xp": 41,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1276451113473802303": {
+        "level": 1,
+        "xp": 50,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1165604737530478592": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1283660078586662934": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1191219424422789242": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1278628320677986367": {
+        "level": 1,
+        "xp": 29,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1107536744032763914": {
+        "level": 1,
+        "xp": 46,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1174219702977974293": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1094636577554182234": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1179688665027452962": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "929676925440507945": {
+        "level": 1,
+        "xp": 18,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1172745439246831639": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1163482499163365506": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1050991181166821486": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "709731652552753173": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "770426761007202325": {
+        "level": 1,
+        "xp": 15,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1242089824945573948": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "899573242614919189": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1042785897889927189": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1250656819051892777": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1159787708391112724": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "760108988355838002": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1049662916938432602": {
+        "level": 1,
+        "xp": 12,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1238766373174247486": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1269992863895261185": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "857205520375873556": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1111621647309471764": {
+        "level": 2,
+        "xp": 150,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1136580109894176838": {
+        "level": 1,
+        "xp": 15,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1132297323976872038": {
+        "level": 2,
+        "xp": 16,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1286546267060834395": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1152159401386463232": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1169990455539273752": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1059841576555266190": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1174709428868612140": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1192466299050262602": {
+        "level": 1,
+        "xp": 12,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "950378003806953514": {
+        "level": 1,
+        "xp": 32,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1217726926211252306": {
+        "level": 1,
+        "xp": 13,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1155713612531388437": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1273596302797836373": {
+        "level": 1,
+        "xp": 35,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1178181615340490762": {
+        "level": 3,
+        "xp": 25,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1215135583706546257": {
+        "level": 2,
+        "xp": 15,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1191182541449875527": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1159790101350584350": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1134747403342336152": {
+        "level": 1,
+        "xp": 17,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1154662065483563038": {
+        "level": 1,
+        "xp": 30,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1106218002027925525": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1207608641168085006": {
+        "level": 3,
+        "xp": 196,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1091613567238799361": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1206050072626733098": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "934016313456734239": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1257626290585075743": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1155678825536045187": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1190650865942536244": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1152441778553765929": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1155817998859386980": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1233676104783630346": {
+        "level": 2,
+        "xp": 105,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "990941635116400672": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1086484133766762576": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1154692023350202460": {
+        "level": 1,
+        "xp": 81,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1154039182763753472": {
+        "level": 1,
+        "xp": 12,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1232478486564962316": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1195726869996261490": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1207336997488959579": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1146389111159140423": {
+        "level": 1,
+        "xp": 15,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1116716073711050812": {
+        "level": 2,
+        "xp": 13,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1302182501326000158": {
+        "level": 1,
+        "xp": 11,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1185537111026302977": {
+        "level": 1,
+        "xp": 11,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1071331892403646495": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1023189134019403846": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1008276726951977011": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1072502346531213392": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1178678613328019511": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "806065058865872946": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1191366158675361834": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1019028135762735164": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1208304034289553448": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1287032056760631338": {
+        "level": 1,
+        "xp": 38,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1012634970277289984": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1281076025459085313": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1082678942059724811": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "904694161633075231": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1147823383539617916": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1302271414019031141": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1302289629579579453": {
+        "level": 1,
+        "xp": 23,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1288159811715989556": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1141234145478049814": {
+        "level": 1,
+        "xp": 99,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1064127531588010035": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1155811400392921168": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1259140639266963646": {
+        "level": 1,
+        "xp": 12,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "842693029416271914": {
+        "level": 1,
+        "xp": 82,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1277472972013310066": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1001279322776158308": {
+        "level": 1,
+        "xp": 17,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1189325062575243339": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1153307482744164352": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1084857238604222497": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1242796165108465814": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1110867053759451217": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1214077400246255668": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "867938732479762452": {
+        "level": 1,
+        "xp": 21,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1286554237374955642": {
+        "level": 1,
+        "xp": 16,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1135917567517655111": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1209853592790499359": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1130011140303364106": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1123512994157035672": {
+        "level": 1,
+        "xp": 50,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1302539709955706967": {
+        "level": 1,
+        "xp": 15,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1178994333014306841": {
+        "level": 1,
+        "xp": 11,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1258448692944568412": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1159832552555675759": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1200636205138710548": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "954195217198759976": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "996219862923874364": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1174315313953783864": {
+        "level": 1,
+        "xp": 41,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1077929945487126538": {
+        "level": 1,
+        "xp": 11,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1258420798813769778": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1222783408451751948": {
+        "level": 1,
+        "xp": 11,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1055822043674837122": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1275426899652378706": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1277448670567993445": {
+        "level": 1,
+        "xp": 45,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1182309802228068486": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1265474680257777747": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1126515952683589692": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1054679884108136470": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1135052340391579738": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1146069472877236244": {
+        "level": 2,
+        "xp": 10,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1056514476742029312": {
+        "level": 2,
+        "xp": 27,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "897779478191800340": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "750536587875582132": {
+        "level": 1,
+        "xp": 17,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "689076981890940953": {
+        "level": 1,
+        "xp": 35,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1204007211853156424": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1112714321517097000": {
+        "level": 1,
+        "xp": 27,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1276148983777202206": {
+        "level": 1,
+        "xp": 41,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1059306052211974264": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1183247812742352957": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1207672666614669393": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1216971457763086427": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1063112380239859772": {
+        "level": 1,
+        "xp": 12,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1167007331108798535": {
+        "level": 2,
+        "xp": 169,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1174369847476506755": {
+        "level": 1,
+        "xp": 52,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1041193480824819773": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "431839828079017984": {
+        "level": 1,
+        "xp": 67,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1246628583926005803": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1258034239925125171": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "932507889896136754": {
+        "level": 1,
+        "xp": 70,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1265931405968277577": {
+        "level": 2,
+        "xp": 44,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1131832321515999342": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1189155162447679538": {
+        "level": 1,
+        "xp": 16,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1132338601175298078": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "944439660074111029": {
+        "level": 1,
+        "xp": 11,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1260156878437093387": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1154720583423107162": {
+        "level": 1,
+        "xp": 64,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1302939198302584853": {
+        "level": 1,
+        "xp": 37,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1238268030354587688": {
+        "level": 1,
+        "xp": 67,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1254369079905484841": {
+        "level": 2,
+        "xp": 0,
+        "xp_required": 300,
+        "qua_da_nhan": 3000
+    },
+    "1211263089094299709": {
+        "level": 1,
+        "xp": 59,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1028977776142860310": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1184510050371375244": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "843103027497926737": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1231622765891686534": {
+        "level": 1,
+        "xp": 45,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1220889875822153859": {
+        "level": 1,
+        "xp": 41,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1277896248002875432": {
+        "level": 1,
+        "xp": 29,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1189915794864357446": {
+        "level": 1,
+        "xp": 41,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1271440196378038374": {
+        "level": 1,
+        "xp": 16,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1135779111567106048": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1198647338487517217": {
+        "level": 1,
+        "xp": 10,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1276348865926135876": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1272501277108207757": {
+        "level": 1,
+        "xp": 34,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1158737548408016896": {
+        "level": 2,
+        "xp": 214,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1279688607724208180": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1152107911535931423": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1100768935583961148": {
+        "level": 1,
+        "xp": 71,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1132309126161117264": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1216743695970340956": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1241216987011747893": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1021408123912732702": {
+        "level": 1,
+        "xp": 11,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "909769903198863390": {
+        "level": 1,
+        "xp": 19,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1249252922366230602": {
+        "level": 1,
+        "xp": 24,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1253366828928077905": {
+        "level": 1,
+        "xp": 26,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1127144192875966504": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1148949167738195978": {
+        "level": 1,
+        "xp": 21,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1257508289143636079": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1143500151223238707": {
+        "level": 1,
+        "xp": 41,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "530035700100235274": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "919787950059966504": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1302348304645885953": {
+        "level": 1,
+        "xp": 14,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1148993351203434536": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "900187824173768755": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1258412915275464736": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1196092347495223397": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1301555797066780714": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1241291350410924033": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1241974217159737408": {
+        "level": 1,
+        "xp": 27,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1287766301099429888": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1053817022162677864": {
+        "level": 1,
+        "xp": 15,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1228736539035701290": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1270010024780894370": {
+        "level": 1,
+        "xp": 13,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1158018241835307078": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1282889529879040132": {
+        "level": 1,
+        "xp": 98,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1288460476912504879": {
+        "level": 1,
+        "xp": 22,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1064898532500324482": {
+        "level": 2,
+        "xp": 140,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1160015586143768618": {
+        "level": 1,
+        "xp": 44,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1081038042451693598": {
+        "level": 2,
+        "xp": 63,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "852836520591228998": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1299330310516772864": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1232903959665180737": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "997372388176052248": {
+        "level": 1,
+        "xp": 59,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1250369090636349524": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1304419774201073688": {
+        "level": 1,
+        "xp": 15,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "910002348124938270": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1278987602200100917": {
+        "level": 1,
+        "xp": 32,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1220548580767694869": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1217241537792966668": {
+        "level": 1,
+        "xp": 90,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "752888372627767376": {
+        "level": 1,
+        "xp": 13,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1065184643692900442": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1207336865192083561": {
+        "level": 1,
+        "xp": 28,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "346639859693387778": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "995978962159284255": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1200799093790875695": {
+        "level": 1,
+        "xp": 28,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1253622364994797618": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1114845664166285403": {
+        "level": 1,
+        "xp": 64,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1305871254909222975": {
+        "level": 2,
+        "xp": 59,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "736922946777382953": {
+        "level": 1,
+        "xp": 41,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1289178256821719054": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1306930084803776523": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1067369135828385823": {
+        "level": 1,
+        "xp": 10,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "922805163041882143": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1104038720245608558": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1188821084703821895": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1116232632414511155": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1120950656941957211": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1157629753742856222": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1217036376328114176": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1153560468854673408": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1209715250904178738": {
+        "level": 3,
+        "xp": 148,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1296455138755608596": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1276792157138583570": {
+        "level": 1,
+        "xp": 77,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "850926885961728030": {
+        "level": 1,
+        "xp": 59,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1247705601597771807": {
+        "level": 3,
+        "xp": 127,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1131034747540353045": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1307651983674445837": {
+        "level": 1,
+        "xp": 10,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "950019817136594994": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1155466327042048150": {
+        "level": 1,
+        "xp": 32,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1208036718012272711": {
+        "level": 1,
+        "xp": 55,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "705792987535507518": {
+        "level": 1,
+        "xp": 93,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "923739676060291112": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1116728706954707094": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1173789952195186829": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1012284443983101994": {
+        "level": 2,
+        "xp": 17,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1109757275960250408": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1238327870204416081": {
+        "level": 1,
+        "xp": 38,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "920646320048463902": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "859776509736255509": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1307928169877340160": {
+        "level": 1,
+        "xp": 10,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1234685741859078269": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "708892951950131252": {
+        "level": 1,
+        "xp": 28,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1162328146138374235": {
+        "level": 1,
+        "xp": 14,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1160093583043465246": {
+        "level": 1,
+        "xp": 26,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1274655706246680576": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1135109069762482238": {
+        "level": 1,
+        "xp": 46,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1222907027580391455": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1246336350005887045": {
+        "level": 1,
+        "xp": 17,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1068862325580378143": {
+        "level": 1,
+        "xp": 35,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1002903507013206118": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1229072596184600630": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1174226451780874241": {
+        "level": 1,
+        "xp": 11,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1236478665278095390": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1213102866114416681": {
+        "level": 1,
+        "xp": 14,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1312373692717600899": {
+        "level": 2,
+        "xp": 67,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1167690566256033844": {
+        "level": 1,
+        "xp": 13,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "897301193385201746": {
+        "level": 2,
+        "xp": 5,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1277271769937608738": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1312403432946143232": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1273979998331732107": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1243155703955197983": {
+        "level": 1,
+        "xp": 66,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1190921892291424286": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1262721927655587900": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1190503611378184202": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1312339122135764992": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1310098130124935188": {
+        "level": 3,
+        "xp": 158,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1269071109509218364": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1309513820074414133": {
+        "level": 1,
+        "xp": 52,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1204006829814718485": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1193250482202882191": {
+        "level": 1,
+        "xp": 10,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1259146252441092187": {
+        "level": 1,
+        "xp": 24,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "984781658693697567": {
+        "level": 1,
+        "xp": 11,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1081786576004190218": {
+        "level": 1,
+        "xp": 27,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1292447364375904268": {
+        "level": 1,
+        "xp": 13,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1276193582549569577": {
+        "level": 1,
+        "xp": 45,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1311045438501027902": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1280826065555820701": {
+        "level": 1,
+        "xp": 25,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1191228171396333639": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1040954891910266983": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1312326306611990538": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1191717356628615198": {
+        "level": 1,
+        "xp": 75,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1139472864429486081": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1172121194904965141": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1145172311289385070": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1278607676133212217": {
+        "level": 1,
+        "xp": 13,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "923744681173594113": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1069082302031863839": {
+        "level": 3,
+        "xp": 848,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1248160882597560332": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1214935228657696870": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1071017974875562024": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1166752461336354870": {
+        "level": 1,
+        "xp": 21,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "922714517828419584": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1285647635449122994": {
+        "level": 1,
+        "xp": 55,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1100060794118488096": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1210524716696080385": {
+        "level": 1,
+        "xp": 33,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1036455843664773142": {
+        "level": 1,
+        "xp": 21,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1291251017194799105": {
+        "level": 1,
+        "xp": 73,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1222876662186643517": {
+        "level": 1,
+        "xp": 26,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "963012192830099486": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1218437775699869808": {
+        "level": 1,
+        "xp": 58,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1222898473565945886": {
+        "level": 2,
+        "xp": 28,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1301423876215148546": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "796671831850483742": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1301562619668201482": {
+        "level": 2,
+        "xp": 133,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1248643619104096391": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1188415515996213270": {
+        "level": 1,
+        "xp": 24,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1313075652697657404": {
+        "level": 3,
+        "xp": 45,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1002430094557585418": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1313034552377344061": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1279058301459628146": {
+        "level": 1,
+        "xp": 17,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1290291158471278638": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1167458432257900555": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1251504359225950218": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1183077764471984223": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1213002366068985916": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "905281309260259351": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "948009977174429756": {
+        "level": 1,
+        "xp": 14,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1176042758335647796": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1293600272395927622": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1030095445101391934": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1202640911788539985": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1203948231315161148": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1002036727197741117": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1311929298336350250": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1113392546262040637": {
+        "level": 1,
+        "xp": 14,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1174231242032549902": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1198510499420176487": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1281813877503426638": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1305049985980825644": {
+        "level": 1,
+        "xp": 24,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1313372226275250290": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1252249812670091346": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1311641756021817346": {
+        "level": 1,
+        "xp": 41,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1157303906628546570": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1085856055956873286": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1165278325468577822": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1263146511529807936": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1312953108179189781": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1279416056850419775": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1193851325801308176": {
+        "level": 2,
+        "xp": 62,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1171774122854981745": {
+        "level": 1,
+        "xp": 16,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1298249338241286176": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1260949476462432367": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1196472395612029039": {
+        "level": 1,
+        "xp": 15,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1275677979426422864": {
+        "level": 1,
+        "xp": 14,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1287923616545112098": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1103403752024707123": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1271796649164800112": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1236655773623259178": {
+        "level": 1,
+        "xp": 25,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "892313768003006495": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1103140875078479882": {
+        "level": 1,
+        "xp": 16,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1309816759427137568": {
+        "level": 1,
+        "xp": 36,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1072361400934080562": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1296709169864249399": {
+        "level": 1,
+        "xp": 60,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1200456260588413000": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1288099423124983853": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1058018672129626133": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1313340900520497243": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1248538539507974204": {
+        "level": 1,
+        "xp": 14,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "926048114287210497": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1313801270531985451": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "971186292928958524": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1313373672139919381": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1085033883839516702": {
+        "level": 2,
+        "xp": 111,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1313742870775074870": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1136909422703157278": {
+        "level": 1,
+        "xp": 39,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "931479205215105066": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1314109518233473026": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1242307076227600394": {
+        "level": 1,
+        "xp": 60,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1278520564922716206": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1101845288458653716": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1289957774272368692": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1145708183759880346": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1185608630477787217": {
+        "level": 1,
+        "xp": 65,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1225838688433606666": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1267849349702881301": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1045553585901010944": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "847991904585908225": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1302412267425366089": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1167122145650946139": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1310200953017995304": {
+        "level": 1,
+        "xp": 60,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1264830225670475877": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "875380408886386718": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1290082301295853638": {
+        "level": 1,
+        "xp": 13,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "976122768091381781": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1080167799781077002": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1060416171997937734": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1173211352303681557": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1179369042411278409": {
+        "level": 1,
+        "xp": 20,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1241730817781268560": {
+        "level": 1,
+        "xp": 23,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1304444547740205092": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1193834019297697812": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1266266445965430784": {
+        "level": 1,
+        "xp": 17,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1172808556832112680": {
+        "level": 1,
+        "xp": 95,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1166027326555951196": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1306665501698687091": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1198106695835070554": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1277164463203549254": {
+        "level": 1,
+        "xp": 13,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1279708969601994763": {
+        "level": 1,
+        "xp": 14,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1258008414068412499": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1310209228459348059": {
+        "level": 2,
+        "xp": 29,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1124262974509563925": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1314946151404929034": {
+        "level": 1,
+        "xp": 25,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1077432904315056240": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1266527537358438491": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1206922377896796220": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1276519865708056587": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1135747168481857696": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1309120639738708055": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1193516447155097685": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1239579170007416947": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1078218084617289728": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1272128919193255977": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1089430955283976233": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1311571379002413059": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1160392919430209639": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1221786777178607697": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1014425483145908265": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1314041242673217566": {
+        "level": 1,
+        "xp": 19,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1167459018801942599": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1212236438599508019": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1237562230673903688": {
+        "level": 1,
+        "xp": 39,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1246342073922228264": {
+        "level": 1,
+        "xp": 19,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "971773422944268299": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1011123435738509353": {
+        "level": 1,
+        "xp": 20,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1315239871555702875": {
+        "level": 1,
+        "xp": 18,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "936436707337850971": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1194420271348727899": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1265481730102530131": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1282917228869718020": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1119154345653579827": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1251878453922369586": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "993709466107256845": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1315308679972519948": {
+        "level": 2,
+        "xp": 24,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1188371575007887400": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "842034954577117205": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1103583549392683140": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1249001743598223421": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1200743446080667689": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1123296355469770754": {
+        "level": 1,
+        "xp": 11,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1210573919719784482": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1273960362466607139": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1138514782522191912": {
+        "level": 1,
+        "xp": 14,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1222148826484314144": {
+        "level": 1,
+        "xp": 37,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1283286263142682644": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1206109460926439496": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1312068328910753856": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "921964537257799690": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1145491628115628064": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1259506421280804875": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1308000275335872512": {
+        "level": 1,
+        "xp": 37,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1215214125899055135": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1066675783516573767": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1205362938182111263": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1173840543558680629": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1274632895549538348": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1122788925954601021": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1314726258680139860": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1297217142546104371": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1271785798118936599": {
+        "level": 1,
+        "xp": 13,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1249751531935367313": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1307635475304939531": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1314074151178469409": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1302965549638226064": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1243546902742569033": {
+        "level": 1,
+        "xp": 24,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1214174139250638898": {
+        "level": 1,
+        "xp": 46,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1219123333648351242": {
+        "level": 3,
+        "xp": 635,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1296112908157059074": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1216591506358403106": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1135176878727110678": {
+        "level": 1,
+        "xp": 10,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1316027137005977600": {
+        "level": 1,
+        "xp": 29,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1242733549161812103": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1212392392385237003": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1256526874629378151": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1192449343907713104": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1279628214410412044": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "976770798691966996": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1074993576368418876": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1012313661831905342": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1202883441322893364": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1227175268414652442": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1316288533563965462": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1269211350253703188": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1011866481866326057": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1248102125784010765": {
+        "level": 1,
+        "xp": 27,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1241306683150696468": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "932882974163234838": {
+        "level": 1,
+        "xp": 12,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1219517628994027593": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1292459072901353493": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1316723958283767859": {
+        "level": 2,
+        "xp": 178,
+        "xp_required": 300,
+        "qua_da_nhan": 1000
+    },
+    "1316750618005737554": {
+        "level": 1,
+        "xp": 13,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1315183494569398292": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1066965790349336596": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1061526414991577118": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1149503309208625173": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1212744562179571763": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1120982153610657894": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1316368546095169675": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1304982261715701850": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1148856297362567168": {
+        "level": 1,
+        "xp": 20,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "809988660514390017": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1068519458815086723": {
+        "level": 1,
+        "xp": 18,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1258304683387392021": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1302840639611731990": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1307683182648365086": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "493263703475617792": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1137665463766237244": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1195323878017343589": {
+        "level": 1,
+        "xp": 12,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1229733047935565896": {
+        "level": 1,
+        "xp": 18,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1107997648931266660": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "937230907490852884": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "942423263705981038": {
+        "level": 1,
+        "xp": 14,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1290882360002478173": {
+        "level": 1,
+        "xp": 22,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1135058806754267210": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1170207491649441874": {
+        "level": 1,
+        "xp": 16,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1270727141574578239": {
+        "level": 1,
+        "xp": 50,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1132961788284129360": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1248928079003521024": {
+        "level": 1,
+        "xp": 66,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1138265858746105906": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1314564978052825120": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1169253675185733662": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1098591928435605614": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1277991721162113067": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1266269980123467880": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1195450343908184124": {
+        "level": 1,
+        "xp": 14,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1153664630598680577": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1146436718304706700": {
+        "level": 1,
+        "xp": 13,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1250300186069172286": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1175323705618989076": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1187040246005760011": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "975248159372628018": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1308035067267780608": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1309139986398052472": {
+        "level": 1,
+        "xp": 13,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1264699256737103945": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1206136974239600720": {
+        "level": 1,
+        "xp": 16,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1290184948011106400": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1182597399164760218": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1137224012951470152": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1172573459956650114": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1284522052279337081": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1298507660898996257": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1071708186106667020": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1062366509294432296": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1155401391855124550": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1284872450626289759": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1041697827094532166": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1285247743224188960": {
+        "level": 1,
+        "xp": 13,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "957233922528407584": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1278720752723693601": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1111268975926595744": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "905057362342211604": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1100213639216111696": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1180441149081653280": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1259419655433621534": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "870489012903764010": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1107115197941952592": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1233937125573922906": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1288003390760161300": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1318222619123908700": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1181485116846002206": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1278270085911547916": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1124665047487098952": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "956187703462998036": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1115099268487852083": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1269863701071007776": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1309662877195440179": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1175415358941827172": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1271725851163234387": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1083328795605475338": {
+        "level": 1,
+        "xp": 16,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1149984698450333748": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1293421898130264157": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1155446023699836929": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1258646341265920091": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1185402076533112889": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1126018684633239553": {
+        "level": 1,
+        "xp": 36,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1043160256504672348": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1099210841397669939": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "964467213971111976": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1174371219370410094": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1061136996598288404": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1277280015507128442": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1005833730151153748": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1307579544554831912": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1153709370601918535": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1214956242125197384": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1299197028173217842": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1319683554233286676": {
+        "level": 1,
+        "xp": 50,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1179783685730488364": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1120332685089447978": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1202222516308017257": {
+        "level": 1,
+        "xp": 21,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1314235198027595839": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1282950096874635350": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1260164490704588910": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1145238242145337364": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1172808358374424596": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1275487152628826277": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1270336193296597023": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1166398507716976741": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1163752842247536680": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1162271536997224479": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1308739928213033030": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1127475541373636748": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1270265332753236059": {
+        "level": 1,
+        "xp": 13,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1235534118159122472": {
+        "level": 3,
+        "xp": 164,
+        "xp_required": 900,
+        "qua_da_nhan": 1000
+    },
+    "1267385451224895534": {
+        "level": 1,
+        "xp": 14,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1231847475699257367": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1176053093314613248": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1274711481551818777": {
+        "level": 1,
+        "xp": 10,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1192335377864851476": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1215212546282229764": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1259052122180288518": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1192480988635336704": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1148111773459820586": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1291662787948318794": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1194098524976062534": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1033323289172520970": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1184789689975185505": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1314536956348203028": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1319458957651214471": {
+        "level": 1,
+        "xp": 31,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "720225039617884241": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1110471212792037476": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1314228561821040640": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1047902827097374832": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1010529087149854730": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1168272030467096647": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "998550688533590076": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1162314839599878234": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1164446310255034378": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1167811906761936996": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1284537821188722762": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1054990179766636584": {
+        "level": 1,
+        "xp": 85,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1251864022366814351": {
+        "level": 1,
+        "xp": 11,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1244121279624118302": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1062308113128095856": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1245613020567044111": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "852095391319195668": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "937259816374665246": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "754288918404399135": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1312781198589956117": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1030804844577042472": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1252613089417887806": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "994562251606462535": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1309515563839782973": {
+        "level": 1,
+        "xp": 75,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1275312729602654220": {
+        "level": 1,
+        "xp": 11,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1109757584312897616": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1312292052821606405": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1170572680878104670": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1195752401764888667": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1262213751466229781": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1038697057843675166": {
+        "level": 1,
+        "xp": 17,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1195726473064099960": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1198844932539031646": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1041252696532979732": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1147152711456915496": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1141557850280300674": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1174224698998009886": {
+        "level": 1,
+        "xp": 85,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1273592662087434273": {
+        "level": 1,
+        "xp": 24,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1046020764165480498": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "928603370917339196": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1199702479428911170": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1036165884567359538": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1301880367350808667": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1073602027264938055": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1194480597490479235": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1015897362654314547": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1072408467551289414": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1037573928220119110": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "884685939555835946": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1136995923008946187": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "866902581313798164": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1188401241815011350": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1316713514974314547": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1203729147709624360": {
+        "level": 1,
+        "xp": 49,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1216307713274024037": {
+        "level": 1,
+        "xp": 13,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1151778726665789440": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1217895856293023817": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1030130838307876865": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1056156959293837382": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1180137490938593321": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1095684866655395911": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1273276834779500698": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "934032221524873256": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1088360720548237362": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1125837201310224429": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1213103230532329522": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1222314422912155658": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1058988423274307786": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1171675563094724680": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1284500127284990035": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1316385551007481959": {
+        "level": 1,
+        "xp": 11,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "698078898801344542": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1169966924831129773": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1170018045025075301": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1159087780274651177": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1324330054641258572": {
+        "level": 1,
+        "xp": 21,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1273654716982628368": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "991163353168887809": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1297021832167166019": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1324956294578180181": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1246390461548073078": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1188276400600383518": {
+        "level": 1,
+        "xp": 10,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1264884877187092514": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1063679145705492500": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1187019297629929506": {
+        "level": 1,
+        "xp": 22,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1121336010031255562": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "966335529346031698": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "969636758344073396": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1135948385380225144": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "940480043568746516": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1033626683099578368": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1144518786360287312": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1093142773294706749": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1254978627930558485": {
+        "level": 1,
+        "xp": 9,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1020835829372944458": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1266068685257445427": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1138777914977034291": {
+        "level": 1,
+        "xp": 6,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1227717094964203603": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1325770553902108725": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1143525053745606736": {
+        "level": 1,
+        "xp": 13,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1325821921052590110": {
+        "level": 1,
+        "xp": 13,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "969829397743951872": {
+        "level": 1,
+        "xp": 52,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1075035558688079903": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1326001336814141461": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1280777777871716424": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1326058968782471180": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1091723343713021962": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1204376798222221342": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1273271551533387777": {
+        "level": 1,
+        "xp": 19,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1243549111072854017": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1264800420216176663": {
+        "level": 1,
+        "xp": 10,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "812154928054272051": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1204405605775839333": {
+        "level": 1,
+        "xp": 19,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1245754037417021524": {
+        "level": 1,
+        "xp": 22,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1220737430231978026": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1207954061727629353": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1051132345849233558": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1060402699146907691": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1325027452875046934": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1159803255795241030": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1268190924803018818": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1180503798700064768": {
+        "level": 1,
+        "xp": 8,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1326566067861979159": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1294630585071046708": {
+        "level": 1,
+        "xp": 10,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1244237987584151574": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1147519774994219098": {
+        "level": 1,
+        "xp": 47,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1324056743487209524": {
+        "level": 1,
+        "xp": 44,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1321085946229424151": {
+        "level": 1,
+        "xp": 26,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1160455139346362469": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1261991875292692604": {
+        "level": 1,
+        "xp": 17,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "882184006781780008": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1154967262722265191": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1161420794488967188": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1253626868041646171": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1244477507470884874": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1293417885158608999": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1327226897704423449": {
+        "level": 1,
+        "xp": 18,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "487427299885711372": {
+        "level": 1,
+        "xp": 7,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1216777613322879209": {
+        "level": 1,
+        "xp": 26,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1239912806820610080": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1280939546472615949": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "877163546000097281": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1300314906343510039": {
+        "level": 1,
+        "xp": 27,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1084359732023795752": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1277275088261222513": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1170668993682620449": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1115846934159163494": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1240257752853385298": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1281524283046101088": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1304745230305726526": {
+        "level": 1,
+        "xp": 4,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1208736588868091965": {
+        "level": 1,
+        "xp": 5,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1065613726868307999": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1272563567803105422": {
+        "level": 1,
+        "xp": 3,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1185153612456931348": {
+        "level": 1,
+        "xp": 14,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1250767398403833860": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1189396001564393553": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1328370766374240297": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1280722537139011598": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1218867627481370666": {
+        "level": 1,
+        "xp": 2,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1181914790113845283": {
+        "level": 2,
+        "xp": 0,
+        "xp_required": 300,
+        "qua_da_nhan": 3000
+    },
+    "1333439111142445129": {
+        "level": 1,
+        "xp": 12,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1324288518591090702": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1332953551852404759": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    },
+    "1281489228160827515": {
+        "level": 1,
+        "xp": 1,
+        "xp_required": 100,
+        "qua_da_nhan": 1000
+    }
+}
