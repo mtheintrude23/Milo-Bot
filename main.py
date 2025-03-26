@@ -2,8 +2,6 @@ import discord
 from colorama import Fore, Style
 from tabulate import tabulate
 import nextcord
-from nextcord.ext import commands, tasks
-from nextcord import Interaction 
 from discord import channel
 from easy_pil import Editor, Canvas, Font, load_image_async
 from discord.ext import commands, tasks
