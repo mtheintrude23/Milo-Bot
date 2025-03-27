@@ -1,7 +1,6 @@
 import discord
 from colorama import Fore, Style
 from tabulate import tabulate
-import nextcord
 from discord import channel
 from easy_pil import Editor, Canvas, Font, load_image_async
 from discord.ext import commands, tasks
@@ -24,8 +23,6 @@ from PIL import Image, ImageDraw, ImageFont
 import traceback
 import platform
 import io
-import contextlib
-import textwrap
 from collections import deque
 from collections import defaultdict
 
